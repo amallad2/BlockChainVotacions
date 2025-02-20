@@ -1,0 +1,12 @@
+/home/bibils/crowdfunding/target/debug/deps/libsemver-0da1ac29be32c6ea.rmeta: /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/lib.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/backport.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/display.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/error.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/eval.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/identifier.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/impls.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/parse.rs
+
+/home/bibils/crowdfunding/target/debug/deps/semver-0da1ac29be32c6ea.d: /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/lib.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/backport.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/display.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/error.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/eval.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/identifier.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/impls.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/parse.rs
+
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/lib.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/backport.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/display.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/error.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/eval.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/identifier.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/impls.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.25/src/parse.rs:

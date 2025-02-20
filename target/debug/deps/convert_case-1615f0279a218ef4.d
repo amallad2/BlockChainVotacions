@@ -1,0 +1,11 @@
+/home/bibils/crowdfunding/target/debug/deps/libconvert_case-1615f0279a218ef4.rmeta: /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/bibils/crowdfunding/target/debug/deps/libconvert_case-1615f0279a218ef4.rlib: /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/bibils/crowdfunding/target/debug/deps/convert_case-1615f0279a218ef4.d: /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs:
+/home/bibils/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs:
